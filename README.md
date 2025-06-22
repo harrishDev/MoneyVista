@@ -14,10 +14,5 @@ Note: Website is not responsive yet
 ![Screenshot](homepage.png)
 ![Screenshot](transactionpage.png)
 
-live url: https://harrishdev.github.io/MoneyVista/
-
 YouTube url: https://youtu.be/iqTV0HCDr8I
-
-Linkedin: url: https://tinyurl.com/2xdbavfb
-
 
